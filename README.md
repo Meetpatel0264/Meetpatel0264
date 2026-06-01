@@ -33,8 +33,6 @@
 
 ## 🌐 Connect With Me
 
-<h3 align="left">🌐 Connect With Me</h3>
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/meet-patel-frontend/" target="_blank">
@@ -121,14 +119,6 @@ Hands-on projects created while learning modern web technologies, focusing on pr
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meetpatel0264&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">🏆 Achievement Dashboard</h2>
 
 <p align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meetpatel0264&theme=tokyonight&hide_border=true"/>
