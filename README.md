@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://wa.me/919510537044?text=Hi%20Meet%20Patel%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect." target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" />
 </a>
 
 <a href="https://x.com/Meetpatel0264" target="_blank">
