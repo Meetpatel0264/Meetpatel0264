@@ -2,7 +2,13 @@
 <h3 align="center">🚀 Passionate Frontend Developer & MERN Stack Learner from India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Meet+Patel+👋;Frontend+Developer;React+Developer;Building+Modern+Web+Applications;MERN+Stack+Learner;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Meetpatel0264&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -31,7 +37,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/meet-patel-frontend/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -44,10 +50,10 @@
 </a>
 
 <a href="https://wa.me/919510537044?text=Hi%20Meet%20Patel%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect." target="_blank">
-  <img src="https://skillicons.dev/icons?i=whatsapp" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<a href="https://x.com/Meetpatel0264" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
@@ -125,16 +131,6 @@ Hands-on projects created while learning modern web technologies, focusing on pr
 <h2 align="center">🏆 Achievement Dashboard</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Meetpatel0264&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Meetpatel0264&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetpatel0264&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meetpatel0264&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -144,12 +140,4 @@ Hands-on projects created while learning modern web technologies, focusing on pr
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetpatel0264&theme=react-dark" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Meetpatel0264&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
