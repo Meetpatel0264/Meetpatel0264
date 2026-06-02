@@ -34,27 +34,29 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/meet-patel-frontend/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/meet-patel-frontend/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.instagram.com/meetpatel0264/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/meetpatel0264/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+  <a href="mailto:meetpatel0264@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
 
-<a href="mailto:meetpatel0264@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+  <a href="https://wa.me/919510537044?text=Hi%20Meet%20Patel%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect." target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
 
-<a href="https://wa.me/919510537044?text=Hi%20Meet%20Patel%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect." target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" />
-</a>
-
-<a href="https://x.com/Meetpatel0264" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
+  <a href="https://x.com/Meetpatel0264" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
 </p>
 
 ---
