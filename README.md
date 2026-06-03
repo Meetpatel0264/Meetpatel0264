@@ -23,16 +23,16 @@
 
 ## 🙋‍♂️ About Me
 
--🔭 I’m currently working on **scalable React applications and my personal portfolio**
--🌱 I’m currently learning **MERN Stack, System Design, and Modern Frontend Architecture**
--👯 I’m looking to collaborate on **innovative web development and open-source projects**
--🤝 I’m looking for help with **performance optimization and full-stack development**
--👨‍💻 All of my projects are available at **GitHub Portfolio**
--💬 Ask me about **React, JavaScript, Frontend Development, Git, and GitHub**
--📫 Reach me at: **[meetpatel0264@gmail.com](mailto:meetpatel0264@gmail.com)**
--📄 Connect with me on **LinkedIn**
--⚡ Fun fact: **Frontend is my playground, and React is my favorite tool. 🚀**
-
+- 🔭 I’m currently working on **scalable React applications and my personal portfolio**
+- 🌱 I’m currently learning **MERN Stack, System Design, and Modern Frontend Architecture**
+- 👯 I’m looking to collaborate on **innovative web development and open-source projects**
+- 🤝 I’m looking for help with **performance optimization and full-stack development**
+- 👨‍💻 All of my projects are available at **GitHub Portfolio**
+- 💬 Ask me about **React, JavaScript, Frontend Development, Git, and GitHub**
+- 💬 Ask me about **React, JavaScript, Frontend Development, Git, and GitHub**
+- 📫 Reach me at: meetpatel0264@gmail.com
+- 📄 Connect with me on **LinkedIn**
+- Fun fact: **Frontend is my playground, and React is my favorite tool.**
 
 ---
 
