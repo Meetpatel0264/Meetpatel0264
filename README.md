@@ -23,11 +23,16 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working on **React Projects**
-- 🌱 Learning **MERN Stack, Tailwind CSS & Git**
-- 👨‍💻 All of my projects are available on GitHub
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- ⚡ Fun Fact: I love turning ideas into interactive websites
+🔭 I’m currently working on **scalable React applications and my personal portfolio**
+🌱 I’m currently learning **MERN Stack, System Design, and Modern Frontend Architecture**
+👯 I’m looking to collaborate on **innovative web development and open-source projects**
+🤝 I’m looking for help with **performance optimization and full-stack development**
+👨‍💻 All of my projects are available at **GitHub Portfolio**
+💬 Ask me about **React, JavaScript, Frontend Development, Git, and GitHub**
+📫 Reach me at: **[meetpatel0264@gmail.com](mailto:meetpatel0264@gmail.com)**
+📄 Connect with me on **LinkedIn**
+⚡ Fun fact: **Frontend is my playground, and React is my favorite tool. 🚀**
+
 
 ---
 
