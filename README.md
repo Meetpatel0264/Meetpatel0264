@@ -110,15 +110,15 @@ An interactive React application that fetches real-time GitHub user data using t
 
 A collection of reusable and scalable React components designed with modern UI principles to speed up frontend development and maintain code consistency.
 
-### 🎨 Frontend UI Projects
+### Frontend UI Projects
 
 A series of responsive landing pages, dashboards, and creative web interfaces built using HTML, CSS, JavaScript, Bootstrap, and React.
 
-### 📱 Responsive Web Applications
+### Responsive Web Applications
 
 Mobile-first web applications optimized for performance, accessibility, and seamless user experience across all devices.
 
-### 🚀 Open Source Learning Projects
+###  Open Source Learning Projects
 
 Hands-on projects created while learning modern web technologies, focusing on problem-solving, clean code practices, and real-world implementation.
 
