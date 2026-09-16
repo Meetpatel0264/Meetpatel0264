@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
+
+<p align="center">
+  <img 
+    src="./assets/meet-terminal-profile.png" 
+    alt="Meet Patel - Developer Profile"
+    width="100%"
+  />
+</p>
+
+
 ## 👀 Profile Views
 
 <p align="left">
@@ -82,45 +92,39 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" />
 </p>
 
 ---
 ## 🚀 Featured Projects
 
-### 🌐 Personal Portfolio Website
+### 🌐 Personal Portfolio
+Modern responsive portfolio built with React.
 
-A modern and fully responsive portfolio built with React, showcasing my projects, skills, and development journey with a clean UI and smooth user experience.
+### 📝 Google Keep Clone
+Notes management application with a Google Keep-inspired interface.
+
+### 👥 Contact Manager
+Contact management application inspired by Google Contacts.
 
 ### 🔍 GitHub User Finder
+React application using the GitHub API to search and explore GitHub users.
 
-An interactive React application that fetches real-time GitHub user data using the GitHub API, allowing users to explore profiles, repositories, and statistics instantly.
+### 🎓 Student Management System
+Full-stack Node.js application with Express, MongoDB and EJS for managing students.
 
-### ⚛️ React Component Library
-
-A collection of reusable and scalable React components designed with modern UI principles to speed up frontend development and maintain code consistency.
-
-### Frontend UI Projects
-
-A series of responsive landing pages, dashboards, and creative web interfaces built using HTML, CSS, JavaScript, Bootstrap, and React.
-
-### Responsive Web Applications
-
-Mobile-first web applications optimized for performance, accessibility, and seamless user experience across all devices.
-
-###  Open Source Learning Projects
-
-Hands-on projects created while learning modern web technologies, focusing on problem-solving, clean code practices, and real-world implementation.
+### 🛒 WatchZone
+Responsive e-commerce web interface built with modern frontend technologies.
 
 ---
 
